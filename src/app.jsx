@@ -101,7 +101,7 @@ class App extends Component {
 
                              <input type="Submit"
                              className='btn btn-danger btn-block'
-                             value='Submit' 
+                             defaultValue='Submit' 
                              />                          
                         </form>
                     </div>
